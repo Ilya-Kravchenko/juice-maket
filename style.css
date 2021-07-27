@@ -9,7 +9,7 @@ body {
 };
 
 .header{
-    width:100%;
+    width:100%;  
     height:900px;   
     background-color:#ccdef0;
     background-image: redial-gradient (circle 675px at content, #ffffff 0%  , #ccdef0 100% );
